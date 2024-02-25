@@ -1,0 +1,26 @@
+{
+  "name": "jitendra-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm pakage to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitendrachoudhary07/jitendra-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jitendra Choudhary",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jitendrachoudhary07/jitendra-currency-converter/issues"
+  },
+  "homepage": "https://github.com/jitendrachoudhary07/jitendra-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
